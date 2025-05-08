@@ -2,7 +2,7 @@
 <h3 align="center">Développeur fullstack javascript</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perlot-maxence&show_icons=true&theme=dark&locale=fr&layout=compact" alt="perlot-maxence" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perlot-maxence&label=Profile%20views&color=bf7d04&style=flat" alt="perlot-maxence" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=perlot-maxence&label=Visites&color=bf7d04&style=flat" alt="perlot-maxence" /> </p>
 
 
 - 🔭 Je travaille sur [mon portfolio](https://perlot-maxence.me/)
